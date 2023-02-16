@@ -39,8 +39,9 @@
   ],
   "buy": [
     {
+      "id":1,
       "company_name": "HDFC Bank",
-      "email": "dummy@gmail.com",
+      "name": "Gertrudis Tatterton",
       "qty": 20
     }
   ]
